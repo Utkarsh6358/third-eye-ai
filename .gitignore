@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+cyber-llm-env/
+venv/
+env/
+
+# System
+.DS_Store
+Thumbs.db
+
+# YOLO weights (optional if large)
+*.pt
+
+# IDE
+.vscode/
+.idea/
